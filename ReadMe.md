@@ -47,7 +47,7 @@ If you find our work useful for your research, please cite it as:
 
 <a id="4">[4]</a> Wolfgang Maass: “Networks of spiking neurons: The third generation of neural network models.” In: *Neural Networks* 10.9 (1997), pp. 1659–1671. ISSN: 0893-6080. DOI: https://doi.org/10.1016/S0893-6080(97)00011-7.
 
-<a id="5">[5]</a> Michael Pfeiffer and Thomas Pfeil. “Deep Learning With Spiking Neurons: Opportunities and Challenges.” In: *Frontiers in Neuroscience* 12 (2018). ISSN: 1662-453X. DOI: [10.3389/fnins.2018.00774](https://www.frontiersin.org/articles/10.3389/fnins.2018.00774/full).
+<a id="5">[5]</a> Michael Pfeiffer and Thomas Pfeil: “Deep Learning With Spiking Neurons: Opportunities and Challenges.” In: *Frontiers in Neuroscience* 12 (2018). ISSN: 1662-453X. DOI: [10.3389/fnins.2018.00774](https://www.frontiersin.org/articles/10.3389/fnins.2018.00774/full).
 
 <a id="6">[6]</a> Tavanaei et al.: “Deep learning in spiking neural networks.” In: *Neural Networks* 111 (2019), pp. 47–63. ISSN: 0893-6080. DOI: https://doi.org/10.1016/j.neunet.2018.12.002.
 
