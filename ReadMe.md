@@ -24,6 +24,7 @@ We show that the FS-DDPG algorithm is more robust towards sensor noise and measu
   <figcaption>Schematic overview of the fully spiking DDPG network. The FS-DDPG comprises a spiking actor network and a spiking critic network. The spiking actor network predicts an action at given a discrete spike representation of the state observation. Based on information about the action predicted and the encoded state observation, the spiking critic network estimates a respective action-value. The action is finally applied and the environment transits into a new state.</figcaption>
 </figure>
 
+<br>
 
 If you find our work useful for your research, please cite it as: 
 
